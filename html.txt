@@ -1,0 +1,10 @@
+사용법: <tag> 대상 </tag>
+
+<strong>:굵게  
+<u>:밑줄 underline 
+<hn>(n은 1~6까지 숫자 중 하나):제목 heading
+<br>:줄바꿈(/필요없음, 키보드enter기능 느낌)
+<p>:단락
+
+
+
